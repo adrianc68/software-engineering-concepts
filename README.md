@@ -1026,13 +1026,11 @@ Focus on the flow of data and control within a system, emphasizing how informati
 
 | Data model              | Description                                                                                                                                                                                                                                                                                                                                                    | Example                                   |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| Data Flow Diagram (DFD) | Visually represent how data flows within a system, illustrating processes, data stores, external entities, and data movement.<br><br>-Use to map out processes and data interactions.<br>-Use to identify how information is processed and where data is stored.<br>-Use when communicating system functionality to stakeholders who may not be technical.<br> | 
-<img src="https://github.com/adrianc68/software-engineering-concepts/blob/main/images/Pasted%20image%2020240928211343.png?raw=true" width="200" height="200">
-|
-| Flowcharts              | Provide a step-by-step diagram of a process, using standardized symbols to represent actions, decisions, inputs, and outputs. They show the flow of control and data through various stages of a process.                                                                                                                                                      | 
+| Data Flow Diagram (DFD) | Visually represent how data flows within a system, illustrating processes, data stores, external entities, and data movement.<br><br>-Use to map out processes and data interactions.<br>-Use to identify how information is processed and where data is stored.<br>-Use when communicating system functionality to stakeholders who may not be technical.<br> | <img src="https://github.com/adrianc68/software-engineering-concepts/blob/main/images/Pasted%20image%2020240928211343.png?raw=true" width="200" height="200"> |
+| Flowcharts              | Provide a step-by-step diagram of a process, using standardized symbols to represent actions, decisions, inputs, and outputs. They show the flow of control and data through various stages of a process.                                                                                                                                                      | <img src="https://github.com/adrianc68/software-engineering-concepts/blob/main/images/Pasted%20image%2020240928211549.png?raw=true" width="200" height="200"> |
 
-<img src="https://github.com/adrianc68/software-engineering-concepts/blob/main/images/Pasted%20image%2020240928211549.png?raw=true" width="200" height="200">
-|
+
+
 #### Analysis Patterns
 
 **Analysis patterns** are reusable solutions or templates for common problems encountered during the analysis and design phases of software development. They capture best practices and proven approaches to specific challenges, helping to streamline the development process. The purpose of Analysis Patterns are:
