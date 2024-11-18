@@ -996,9 +996,9 @@ By modeling behaviors, you can identify the system’s response to various input
 | Model                  | Purpose                                                                                                                                                                     | Example                                   |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | State machine diagrams | Describe the states of an object and transitions between states based on events.<br><br>Use when modeling complex behaviors of individual objects, such as order processing | <img src="https://github.com/adrianc68/software-engineering-concepts/blob/main/images/Pasted%20image%2020240928165635.png" width="200" height="200"> |
-| Sequence diagrams      | Show object interactions in a time sequence.<br><br>Use in a detailed design discussions where timing and order of events matter.                                           | ![[Pasted image 20240928165711.png\|200]] |
-| Collaboration diagrams | Focus on the relationships between objects and how they collaborate to fulfill a use case.<br><br>Use to emphasize the structural organization of the system during design. | ![[Pasted image 20240928165734.png\|200]] |
-| Activity diagrams      | Detail workflows and parallel processes.<br><br>Use to model complex workflows, especially when multiple activities occur simultaneously                                    | ![[Pasted image 20240928165922.png\|200]] |
+| Sequence diagrams      | Show object interactions in a time sequence.<br><br>Use in a detailed design discussions where timing and order of events matter.                                           | <img src="https://github.com/adrianc68/software-engineering-concepts/blob/main/images/Pasted%20image%2020240928165711.png?raw=true" width="200" height="200"> |
+| Collaboration diagrams | Focus on the relationships between objects and how they collaborate to fulfill a use case.<br><br>Use to emphasize the structural organization of the system during design. | <img src="https://github.com/adrianc68/software-engineering-concepts/blob/main/images/Pasted%20image%2020240928165734.png" width="200" height="200"> |
+| Activity diagrams      | Detail workflows and parallel processes.<br><br>Use to model complex workflows, especially when multiple activities occur simultaneously                                    | <img src="https://github.com/adrianc68/software-engineering-concepts/blob/main/images/Pasted%20image%2020240928165922.png" alt="Alt Text" width="200" height="200"> |
 
 ##### Data models
 
@@ -1006,9 +1006,12 @@ A data model is a conceptual framework that defines how data is organized, store
 
 | Data model            | Description                                                                                                                                  | Example                                   |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| Conceptual data model | A high-level representation that outlines the key entities and their relationships without delving into implementation details.<br><br><br>  | ![[Pasted image 20240928204356.png\|300]] |
-| Logical data model    | A detailed representation that defines data elements and their relationships in a way that is independent of specific database technologies. | ![[Pasted image 20240928204615.png\|300]] |
-| Physical data model   | Specific how data will be physically stored in a database, including table structures, data types, and indexing.                             | ![[Pasted image 20240928204553.png\|300]] |
+| Conceptual data model | A high-level representation that outlines the key entities and their relationships without delving into implementation details.<br><br><br>  | 
+<img src="https://github.com/adrianc68/software-engineering-concepts/blob/main/images/Pasted%20image%2020240928204356.png" width="300" height="300"> |
+| Logical data model    | A detailed representation that defines data elements and their relationships in a way that is independent of specific database technologies. | 
+<img src="https://github.com/adrianc68/software-engineering-concepts/blob/main/images/Pasted%20image%2020240928204615.png" width="300" height="300"> |
+| Physical data model   | Specific how data will be physically stored in a database, including table structures, data types, and indexing.                             |
+<img src="https://github.com/adrianc68/software-engineering-concepts/blob/main/images/Pasted%20image%2020240928204553.png"  width="300" height="300"> |
 |                       |                                                                                                                                              |                                           |
 ![](images/Pasted%20image%2020240928204253.png)
 ##### Flow-oriented models
