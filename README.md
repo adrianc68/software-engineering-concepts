@@ -1557,7 +1557,7 @@ Implementing quality attributes makes it easier to differentiate a good system f
 ![](images/Pasted%20image%2020241008144137.png)
 #### Quality Attribute Scenarios
 
-A quality attribute requirement should be unambiguous and testable. We use a common form to specify (the act of describing it with enough clarity and detail) all quality attribute requirements through Quality Attribute Scenarios.
+A quality attribute requirement should be unambiguous and testable. We use a common form to specify (the act of describing it with enough clarity and detail) all quality attribute requirements through Quality Attribute Scenarios. 
 
 **Quality attribute scenarios** are detailed, specific descriptions of how a system should meet certain **quality attributes**. These scenarios help set clear, measurable expectations for the system’s behavior under specific conditions, ensuring it not only functions correctly but also meets particular quality standards.
 
@@ -1568,6 +1568,20 @@ Our common form for quality attribute expression has these parts:
 * **Response measure**: Determining whether a response is satisfactory—whether the requirement is satisfied—is enabled by providing a response measure. 
 * **Environment**: The environment of a requirement is the set of circumstances in which the scenario takes place. The environment acts as a qualifier on the stimulus.
 * **Artifact**: Is the portion of the system to which the requirements applies.
+
+
+In other words, there is a small-process for transforming the quality attribute requirement to a well specified quality attribute scenario. 
+
+1. **Elicit Requirements from Stakeholders:**  Stakeholders often express their needs as vague or ambiguous sentences like "The system should be fast enough to handle many users"
+2. **Refine the Statement:** Use general tips or quality attribute expressions parts to ensure the requirement is specific and testable. (Source, stimulus, stimulus source, response, response measure, environment, artifact)
+3. **Write a Well-Defined (specify) Quality Attribute Scenario**: Convert the refined details into a structured sentence: For example, from the vague "The system should be fast enough to handle many users," you might create: *During peak usage hours (environment), when multiple users (source) query the service API (artifact) simultaneously (stimulus), the system will process 95% of the requests within 2 seconds (response) and ensure no more than 5% of requests are delayed beyond 5 seconds (response measure).*
+
+This approach ensures:
+1. **Clarity:** Everyone understands the requirement the same way.
+2. **Testability:** Developers, architects and testers know what success looks like.
+3. **Traceability:** Each scenario ties back to stakeholders goals.
+4. **Decision support:** helps architect choose the right patterns, technologies, and infrastructure.
+
 
 ![](images/Pasted%20image%2020241006173258.png)
 ![](images/Pasted%20image%2020241006173308.png)
