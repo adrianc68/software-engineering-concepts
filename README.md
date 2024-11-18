@@ -124,7 +124,7 @@ The work product is the set of programs, content (data) and other work products 
 
 The foundation for software engineering is the process layer. The software engineering process is the glue that holds the technology layers together and enables rational and timely development of computer software. 
 
-![]( images/Pasted image%2020240926171219.png)
+![](images/Pasted%20image%2020240926171219.png)
 
 **Process** defines a framework that must be established for effective delivery of software engineering technology. The software process form the basis for management control of software products and establishes the context in which technical methods are applied, work products (models, documents, data, reports, forms, etc) are produced, milestones are established, quality is ensured and change is properly managed.
 
@@ -198,7 +198,7 @@ In general, the essence of practice or software engineering are:
 
 The software process is represented by the next figure. Referring to the figure, each framework activity is populated by a set of software engineering actions. Each software engineering action is defined by a task set that identifies the work tasks that are to be completed, the work products that will be produced, the quality assurance points that will be required, and the milestones that will be used to indicate progress.
 
-![]( images/Pasted image%2020240927163310.png)
+![](images/Pasted%20image%2020240927163310.png)
 
 The software process incorporates five framework activities—communication, planning, modeling, construction and deployment that are applicable to all software projects. In addition, a set of umbrella activities—project tracking and control, risk management, quality assurance, configuration management, technical reviews and others—are applied throughout the process.
 
@@ -211,7 +211,7 @@ All the models have an important aspect called **process flow**—describes how 
 | An evolutionary | It executes the activities in a circular manner. Each circuit through the five activities leads to a more complete version of the software |
 | A parallel      | It executes one or more activities in parallel with other activities                                                                       |
 
-![]( images/Pasted image%2020240927163836.png)
+![](images/Pasted%20image%2020240927163836.png)
 
 Each software engineering action can be represented by a number of different task sets—each a collection of software engineering work tasks, related work products, quality assurance points and project milestones.
 
@@ -302,7 +302,7 @@ The Waterfall model is a sequential development process where each phase must be
 
 **Use Cases**: Best suited for projects with well-defined requirements and low likelihood of changes.
 
-![]( images/Pasted image%2020240927171431.png)
+![](images/Pasted%20image%2020240927171431.png)
 
 #### The V-Model
 
@@ -323,7 +323,7 @@ The V-Model, or Verification and Validation Model, is an extension of the Waterf
 
 **Use Cases**: Ideal for projects requiring high reliability and where each phase's outputs can be thoroughly tested before proceeding.
 
-![]( images/Pasted image%2020240927171532.png)
+![](images/Pasted%20image%2020240927171532.png)
 
 ### Iterative  Models
 #### Spiral
@@ -343,7 +343,7 @@ The Spiral model combines iterative development with a focus on risk management.
 
 **Use Cases**: Suitable for large, complex projects where risk management is critical and requirements may evolve.
 
-![]( images/Pasted image%2020240927221428.png)
+![](images/Pasted%20image%2020240927221428.png)
 
 ### Incremental Models 
 
@@ -364,7 +364,7 @@ The Incremental model involves developing software in small, manageable sections
 **Use Cases**: Ideal for projects with clear requirements that can evolve, where early delivery of functionality is beneficial.
 
 
-![]( images/Pasted image%2020240927221807.png)
+![](images/Pasted%20image%2020240927221807.png)
 
 ### Evolutionary Process Models
 
@@ -383,7 +383,7 @@ Prototyping involves creating a preliminary version of the software (a prototype
 
 **Use Cases**: Useful when requirements are unclear or subject to change, and user involvement is critical.
 
-![]( images/Pasted image%2020240927221940.png)
+![](images/Pasted%20image%2020240927221940.png)
 ### Concurrent Models
 
 #### Concurrent Development Model
@@ -400,7 +400,7 @@ Concurrent models allow for the simultaneous execution of various development ac
 
 **Use Cases**: Suitable for complex projects with multiple teams working on different parts of the system, such as large enterprise applications.
 
-![]( images/Pasted image%2020240927222043.png)
+![](images/Pasted%20image%2020240927222043.png)
 ### Specialized Process Models
 #### Component-Based Development
 
@@ -417,7 +417,7 @@ Component-Based Development (CBD) is an approach that emphasizes the use of reus
 
 **Use Cases**: Ideal for large-scale systems, enterprise applications, and situations where rapid development and deployment are necessary. CBD is particularly beneficial in environments with a library of existing components to leverage.
 
-![]( images/Pasted image%2020240927222252.png)
+![](images/Pasted%20image%2020240927222252.png)
 
 #### The Formal Methods Model
 
@@ -435,7 +435,7 @@ The Formal Methods Model is a mathematical approach to software development that
 
 **Use Cases**: Particularly useful in domains where safety and correctness are paramount, such as aerospace, medical devices, and banking systems
 
-![]( images/Pasted image%2020240927222330.png)
+![](images/Pasted%20image%2020240927222330.png)
 #### Aspect-Oriented Software Development
 
 Aspect-Oriented Software Development (AOSD) is a programming paradigm that aims to enhance modularity by allowing the separation of cross-cutting concerns. Cross-cutting concerns are aspects of a program that affect multiple modules and can lead to code tangling and scattering, making the software harder to maintain. Key aspects of AOSD include:
@@ -451,7 +451,7 @@ Aspect-Oriented Software Development (AOSD) is a programming paradigm that aims 
 
 **Use Cases**: AOSD is particularly useful in large systems where cross-cutting concerns are prevalent, such as enterprise applications, distributed systems, and applications requiring extensive logging or security features.
 
-![]( images/Pasted image%2020240927222706.png)
+![](images/Pasted%20image%2020240927222706.png)
 
 ### Agile Process Models
 
@@ -467,7 +467,7 @@ Scrum is an agile framework for managing and completing complex projects, primar
 
 **Use Cases**: Scrum is well-suited for projects with evolving requirements, where teams need to deliver incremental value. It’s commonly used in software development but can be applied to various industries for managing projects that benefit from flexibility and rapid feedback.
 
-![]( images/Pasted image%2020240927230819.png)
+![](images/Pasted%20image%2020240927230819.png)
 
 #### Extreme Programming (XP)
 
@@ -481,7 +481,7 @@ Extreme Programming (XP) is an agile software development methodology that empha
 
 **Use Cases**: XP is particularly beneficial for projects with rapidly changing requirements and a strong need for high-quality code.
 
-![]( images/Pasted image%2020240927223837.png)
+![](images/Pasted%20image%2020240927223837.png)
 #### Feature-Driven Development (FDD)
 
 Feature-Driven Development (FDD) is an agile methodology focused on delivering tangible, working features in a structured manner. Key characteristics include:
@@ -494,7 +494,7 @@ Feature-Driven Development (FDD) is an agile methodology focused on delivering t
 
 **Use Cases**: FDD is well-suited for larger projects where features can be clearly defined and prioritized, allowing teams to focus on delivering value incrementally.
 
-![]( images/Pasted image%2020240927223904.png)
+![](images/Pasted%20image%2020240927223904.png)
 
 ### PSP and TSP
 
@@ -511,7 +511,7 @@ Characteristics:
 
 **Use Cases**: PSP is ideal for individual developers looking to enhance their coding skills and time management, reduce defects, and demonstrate a commitment to quality and professional growth.
 
-![]( images/Pasted image%2020240927225727.png)
+![](images/Pasted%20image%2020240927225727.png)
 
 #### Team Process Process
 
@@ -525,7 +525,7 @@ The Team Software Process (TSP) builds on the principles of PSP but focuses on i
 
 **Use Cases**: TSP is well-suited for software teams managing complex projects, enabling them to collaborate effectively, plan with clear milestones, and ensure higher quality outputs through systematic processes.
 
-![]( images/Pasted image%2020240927225752.png)
+![](images/Pasted%20image%2020240927225752.png)
 
 # Software Engineer Principles
 
@@ -953,7 +953,7 @@ In Agile Requirements Engineering the intent is to transfer ideas from stakehold
 In self-adaptive systems can reconfigure themselves, augment their functionality, protect themselves, recover from failure, and accomplish all of this while hiding most of their internal complexity from their users. Adaptive requirements document the variability needed for self-adaptive systems.
 
 
-![]( images/Pasted image%2020241005081650.png)
+![](images/Pasted%20image%2020241005081650.png)
 ##### Scenario-based models
 
 This approach describes the system from the user's perspective, focusing on specific interactions between users (actors) and the system.
@@ -1010,7 +1010,7 @@ A data model is a conceptual framework that defines how data is organized, store
 | Logical data model    | A detailed representation that defines data elements and their relationships in a way that is independent of specific database technologies. | ![[Pasted image 20240928204615.png\|300]] |
 | Physical data model   | Specific how data will be physically stored in a database, including table structures, data types, and indexing.                             | ![[Pasted image 20240928204553.png\|300]] |
 |                       |                                                                                                                                              |                                           |
-![]( images/Pasted image%2020240928204253.png)
+![](images/Pasted%20image%2020240928204253.png)
 ##### Flow-oriented models
 
 Focus on the flow of data and control within a system, emphasizing how information moves through various processes and components. They are often used in system design to represent the dynamics of processes and the interactions between them. The key characteristics are:
@@ -1079,7 +1079,7 @@ Each element of the requirements model presents the problem from a different poi
 
 Analysis modeling leads to the derivation of one or more of these modeling elements. However, the specific content of each element (i.e., the diagrams that are used to construct the element and the model) may differ from project to project. Only those modeling elements that add value to the model should be used.
 
-![]( images/Pasted image%2020240929012312.png)
+![](images/Pasted%20image%2020240929012312.png)
 
 #### Requirements Analysis
 
@@ -1162,7 +1162,7 @@ Software domain analysis is the identification analysis and specification of com
 
 The goal of domain analysis is straightforward: to find or create those analysis classes and/or analysis patterns that are broadly applicable so that they may be reused. The role of the domain analyst is to discover and define analysis patterns, analysis classes, and related information that may be used by many people working on similar but no necessarily the same applications.
 
-![]( images/Pasted image%2020240929010351.png)
+![](images/Pasted%20image%2020240929010351.png)
 
 
 
@@ -1187,7 +1187,7 @@ The goal of design is to produce a model or representation that exhibits firmnes
 
 Beginning once software requirements have been analyzed and modeled, software design is the last software engineering action within the modeling activity and sets the stage for **construction**.
 
-![]( images/Pasted image%2020240929210435.png)
+![](images/Pasted%20image%2020240929210435.png)
 
 The data/class design transforms class models into design class realizations and the requisite data structures required to implement the software. The objects and relationship defined in the CRC diagram and the detailed data content depicted by class attributes and other notation provide the basis for the data design activity. Part of class design may occur in conjunction with the design of the software architecture.
 
@@ -1301,7 +1301,7 @@ An overarching framework that includes all design classes and their relationship
 
 The design model can viewed in two different dimensions as illustrated in the Process Dimension. The process dimension indicates the evolution of the design model as design tasks are executed as part of the software process. The abstraction dimension represents the level of detail as each element of the analysis model is transformed into a design equivalent and then refined iteratively.
 
-![]( images/Pasted image%2020240930015645.png)
+![](images/Pasted%20image%2020240930015645.png)
 
 #### Design Classes 
 
@@ -1406,10 +1406,10 @@ Software design provides a **design plan** that describes the elements of a sy
 - Guide the implementation tasks, including detailed design, coding, integration, and testing.
 
 There is a distinct difference between the terms architecture and design. A design is an instance of an architecture similar to an object being an instance of a class. So, there is one architecture, but many designs can be created based on that architecture. Therefore, you cannot mix "architecture" and "design" with each other. The elements and structures that are defined as part of an architecture are root of every design. Design begins with a consideration of architecture.
-![]( images/Pasted image%2020241104134640.png)
+![](images/Pasted%20image%2020241104134640.png)
 
 
-![]( images/Pasted image%2020241104135028.png)
+![](images/Pasted%20image%2020241104135028.png)
 
 
 ## Software Architecture
@@ -1424,7 +1424,7 @@ There are four types of architecture from the viewpoint of an enterprise and col
 - **Information technology (IT) architecture** − Defines the hardware and software building blocks that make up the overall information system of the organization.
 
 
-![]( images/Pasted image%2020241104135706.png)
+![](images/Pasted%20image%2020241104135706.png)
 
 
 The software architecture is the set of structures needed to reason about the system. These structures comprise software elements, relations among them, and properties of both. Architecture is importnt for a wide vairety of reasons, between them:
@@ -1545,7 +1545,7 @@ The architecture must respond to each of these kinds of requirements:
 
 Implementing quality attributes makes it easier to differentiate a good system from a bad one. Attributes are overall factors that affect runtime behavior, system design, and user experience.
 
-![]( images/Pasted image%2020241008144137.png)
+![](images/Pasted%20image%2020241008144137.png)
 #### Quality Attribute Scenarios
 
 A quality attribute requirement should be unambiguous and testable. We use a common form to specify (the act of describing it with enough clarity and detail) all quality attribute requirements through Quality Attribute Scenarios.
@@ -1560,8 +1560,8 @@ Our common form for quality attribute expression has these parts:
 * **Environment**: The environment of a requirement is the set of circumstances in which the scenario takes place. The environment acts as a qualifier on the stimulus.
 * **Artifact**: Is the portion of the system to which the requirements applies.
 
-![]( images/Pasted image%2020241006173258.png)
-![]( images/Pasted image%2020241006173308.png)
+![](images/Pasted%20image%2020241006173258.png)
+![](images/Pasted%20image%2020241006173308.png)
 
 #### Achieving Quality Attributes Through Tactics
 
@@ -1574,9 +1574,9 @@ If no pattern exist to realize the architect's design goal, tactics allow the ar
 Tactics categorization have been established for the quality attributes of availability, deployability, energy efficiency, interoperability, modifiability, performance, safety, security, testability, and usability.
 
 
-![]( images/Pasted image%2020241006174733.png)
+![](images/Pasted%20image%2020241006174733.png)
 
-![]( images/Pasted image%2020241109143034.png)
+![](images/Pasted%20image%2020241109143034.png)
 
 Each of these tactics is an option for the architect. They may be instantiated via coding, via patterns, or via external components such as frameworks—but they are architectural.
 #### Guiding Quality Design Decisions
@@ -1954,7 +1954,7 @@ The architect needs to worry about the following aspects:
 * **Architectural Evaluation**
 * **Architectural Implementation**
 
-![]( images/Diagrama sin%20título.drawio.svg)
+![](images/Diagrama%20sin%20título.drawio.svg)
 
 ## Architectural Requirements
 
@@ -1988,7 +1988,7 @@ The results of stakeholder interviews should include a list of architectural dri
 * Guide the development of prototypes and simulations
 * Influence the order in which the architecture is developed
 
-![]( images/Pasted image%2020241012223742.png)
+![](images/Pasted%20image%2020241012223742.png)
 #### Gathering ASRs by Understanding the Business Goals
 
 Business goals are the raison for building a system. No organization builds a system without a reason.
@@ -2000,7 +2000,7 @@ There are three possible relationships between business goals and an architectur
 2. Business goals may directly affect the architecture without precipitating a quality attribute requirement at all.
 3. No influence at all.
 
-![]( images/Pasted image%2020241012224252.png)
+![](images/Pasted%20image%2020241012224252.png)
 
 
 #### A categorization of Business Goals
@@ -2023,8 +2023,8 @@ List of standard business goals categories:
 11. Managing change in environmental factors.
 These categories are not completely orthogonal. Some business goals may fit into more than one category, and that's all right. If the categories overlap, then this might cause us to ask redundant questions.
 
-![]( images/Pasted image%2020241012230158.png)
-![]( images/Pasted image%2020241012230429.png)
+![](images/Pasted%20image%2020241012230158.png)
+![](images/Pasted%20image%2020241012230429.png)
 #### Expressing Business Goals
 
 It helps ensure that all business goals are expressed clearly, in a consistent fashion, and contain sufficient information to enable their shared understanding by relevant stakeholders. Just as quality attribute scenario adds precision and meaning to an otherwise vague need for say "modifiability" a business goal scenario will ad precision and meaning to a desire to "meet financial objectives". Our business goal scenario template has seven parts:
@@ -2039,7 +2039,7 @@ Elements 2-6 can be combined into a sentence that reads:
 * For the system being developed, \<goal-subject\> desires that \<goal-object\> achieve \<goal\> in the context of \<environment\> and will be satisfied it \<goal-measure\>
 In many context, the goals of different stakeholders may conflict. By identifying the stakeholder who owns the goal, the sources of conflicting goals can be identified.
 
-![]( images/Pasted image%2020241012231112.png)
+![](images/Pasted%20image%2020241012231112.png)
 
 
 #### Capturing Business Goals
@@ -2074,7 +2074,7 @@ Once you have a utility tree filled out, you can use it to make important checks
 * ASRs that rate a (H,H) rating are obviously the ones that deserve the most attention from you. A very large number of these might be a cause for concern about whether the system is achievable
 * Stakeholders can review the utility tree to make sure their concerns are addressed.
 
-![]( images/Pasted image%2020241012233956.png)
+![](images/Pasted%20image%2020241012233956.png)
 
 #### Tying the Methods Together
 
@@ -2095,7 +2095,7 @@ It is unlikely, however, that your project will have the time and resources to s
 
 Attribute-Driven Design (ADD) is an architectural design method that focuses on the quality attributes of a system. Unlike traditional design methods that may focus only on functionality, ADD emphasizes quality requirements from the beginning. This approach helps create an architecture that better meets the needs and expectations of the system and its users.
 
-![]( images/Pasted image%2020241109231909.png)
+![](images/Pasted%20image%2020241109231909.png)
 ### Step 1: Review Inputs
 
 Before starting a design round, you need to make sure that the inputs to the design process are available and correct. First, you need to ensure that you are clear about the purpose for the design activities that will ensue. 
@@ -2325,7 +2325,7 @@ Because components represent a general containership mechanism, an architect can
 
 These two styles represent different ways to top-level partition the architecture. Note that in each variation, each of the top-level components (layers or components) likely has other components embedded within. The top-level partitioning is of particular of architects because it defines the fundamental architecture style and way of partitioning code.
 
-![]( images/Pasted image%2020241104161303.png)
+![](images/Pasted%20image%2020241104161303.png)
 
 | Partitoning            | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Advantages/Disadvantages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2363,7 +2363,7 @@ The ASR are the requirements that drive the architectural design.
 
 One way of viewing design is as a process of "generate and test". This approach views a particular design as a hypothesis; namely, the design satisfies the requirements. Testing is the process of determining whether the design hypothesis is correct. If it is not, then another design hypothesis must be generated.
 
-![]( images/Pasted image%2020241013002319.png)
+![](images/Pasted%20image%2020241013002319.png)
 
 Generate and test as a design strategy leads to the following questions:
 1. Where does the initial hypothesis come from?
@@ -2446,7 +2446,7 @@ The order that you should work through ADD is influenced by the business and tec
 
 A breadth-first refinement strategy is preferred because it allows you to apportion the most work to the most teams soonest. Breadth first allows for consideration of the interaction among the elements at the same level.
 
-![]( images/Pasted image%2020241013135546.png)
+![](images/Pasted%20image%2020241013135546.png)
 ##### Step 2: Identify the ASRs for the chosen element
 
 We can use the utility tree here, because it guides the stakeholders in prioritizing the QA requirements. The two factors used to prioritize the ASRss in a utility tree business value and architectural impact.
@@ -2560,7 +2560,7 @@ In many cases, archetypes can be derived by examining the analysis classes defin
 * Indicator: An abstraction that represents all mechanisms for indicating that an alarm condition is occurring.
 * Controller: An abstraction that depicts the mechanisms that allow the arming or disarming of a node. If controllers reside on a network, they have the ability to communicate with one another.
 
-![]( images/Pasted image%2020241001125654.png)
+![](images/Pasted%20image%2020241001125654.png)
 
 ##### 4. Refining the architecture into Components
 
@@ -2574,7 +2574,7 @@ The interfaces depicted in the architecture context diagram imply one or more sp
 
 The overall architectural structure is represented as UML component diagram.
 
-![]( images/Pasted image%2020241001131439.png)
+![](images/Pasted%20image%2020241001131439.png)
 
 ##### 5. Describing Instantiations of the System
 
@@ -2582,7 +2582,7 @@ The context of the system has been represented, archetypes that indicate the imp
 
 To accomplish this, an actual instantiation of the architecture is developed. By this we mean that architecture is applied to a specific problem with the intent of demonstrating that the structure and components are appropriate.
 
-![]( images/Pasted image%2020241001141525.png)
+![](images/Pasted%20image%2020241001141525.png)
 
 ##### 6. Assessing alternative architectural Design
 
@@ -2613,7 +2613,7 @@ The properties of component are those characteristics that are necessary to an u
 
 Developers should never take components designed by architects as the last words; all software design benefits from iteration. Rather, than initial design should be viewed as first draft, where implementation will reveal more details and refinements.
 
-![]( images/Pasted image%2020241104162851.png)
+![](images/Pasted%20image%2020241104162851.png)
 
 | Stage                                    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2625,7 +2625,7 @@ Developers should never take components designed by architects as the last words
 
 
 
-![]( images/Pasted image%2020241104162910.png)
+![](images/Pasted%20image%2020241104162910.png)
 
 
 
@@ -2692,7 +2692,7 @@ Useful allocation structures include these:
 Structures represent the primary engineering leverage points of an architecture. Each structure brings with it the power to manipulate one or more quality attributes.
 
 
-![]( images/Pasted image%2020241005134551.png)
+![](images/Pasted%20image%2020241005134551.png)
 
 
 
@@ -2918,14 +2918,14 @@ It is an architecture verification method for studying and documenting software 
 - **The development view**: It describes the static organization or structure of the software in its development of environment.
 This view model can be extended by adding one more view called **scenario view** or **use case view** for end-users or customers of software systems. It is coherent with other four views and are utilized to illustrate the architecture serving as “plus one” view, (4+1) view model. The following figure describes the software architecture using five concurrent views (4+1) model.
 
-![]( images/Pasted image%2020241001231011.png)
+![](images/Pasted%20image%2020241001231011.png)
 
 
 ###### Why is it called 4+1 instead of 5?
 
 The **use case view** has a special significance as it details the high level requirement of a system while other views details — how those requirements are realized. When all other four views are completed, it’s effectively redundant. However, all other views would not be possible without it. The following image and table shows the 4+1 view in detail:
 
-![]( images/Pasted image%2020241001231131.png)
+![](images/Pasted%20image%2020241001231131.png)
 
 #### Architecture Description Languages (ADLs)
 
@@ -2947,10 +2947,10 @@ The object-oriented (OO) paradigm took its shape from the initial concept of a n
 
 
 
-![]( images/Pasted image%2020241001232110.png)
+![](images/Pasted%20image%2020241001232110.png)
 
 
-![]( images/Pasted image%2020241001234749.png)
+![](images/Pasted%20image%2020241001234749.png)
 
 
 
@@ -2963,7 +2963,7 @@ The CBSE process, however, must be characterized in a manner that not only ident
 
 The process model for component-based software engineering emphasizes parallel tracks in which domain engineering occurs concurrently with component-based development. Domain engineering performs the work required to establish a set of software components that can be reused by the software engineer.
 
-![]( images/Pasted image%2020241002120848.png)
+![](images/Pasted%20image%2020241002120848.png)
 
 #### Process
 
