@@ -2549,7 +2549,7 @@ The work product is an architecture model encompassing data architecture and pro
 
 Establish the system's boundaries, identifying external entities, stakeholders, and how they interact with the system. You can use the Architecture Diagram Context (ADC)
 
-![[Pasted image 20241001123950.png|500]]
+![](images/Pasted%20image%20241001123950.png)
 
 Here the systems that interoperate with the target system (the system for which an architectural design is to be developed) are represented as:
 1. Superordinate systems: Those systems that use the target system as part of some higher-level processing scheme.
